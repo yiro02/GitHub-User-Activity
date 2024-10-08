@@ -1,36 +1,34 @@
-# BankAccount
-This is an educational public repository to illustrate the power of automated testing through Github Actions.
 
-## Run locally
-1. Set up Python virtual environment.
-```
-python -m venv venv
-```
-2. Install required dependencies.
-```
-pip install -r requirements.txt
-```
-3. Run unit tests.
-```
-python -m pytest
-```
-4. Run the app.
-```
-python app.py
-```
+# Project Title
 
-## Code Description
+A brief description of what this project does and who it's for
 
-1. app.py: A flask application that exposes the following API endpoints: 
-  - index at / : Retun a JSON data structure indicating the current balance. 
-  - deposit at /deposit : Take the deposit amount as a URL parameter and return the new balance after adding the amount. 
-  - withdraw at /withdraw : Take the withdrawal amount as a URL parameter and return the new balance after subtracting the amount. 
-App relies on a global in-memory variable (`balance`) to store the balance of the account.
 
-2. requirements.txt: A text file including all the Python libraries and packages needed to run the app. 
+## Acknowledgements
 
-3. .gitignore: Refer to the gitignore article for more details. In short, this file makes it possible that local configuration or binary files are not pushed to the repository. 
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-4. tests: It's a directory that includes several unit tests for the APIs. The tests utilize the PyTest library.
 
-https://github.com/yiro02/GitHub-User-Activity/blob/main/README.md
+#  New Activity is good, for the people who wants to learn code and who wants to improve to skills 
+## Optimizations
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Lessons Learned
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+

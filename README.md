@@ -10,6 +10,7 @@ A brief description of what this project does and who it's for
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+<<<<<<< HEAD
 
 #  New Activity is good, for the people who wants to learn code and who wants to improve to skills 
 ## Optimizations
@@ -32,3 +33,8 @@ Javascript, HTML, CSS...
 ## Lessons Learned
 What did you learn while building this project? What challenges did you face and how did you overcome them?
 
+=======
+4. tests: It's a directory that includes several unit tests for the APIs. The tests utilize the PyTest library.
+5. 
+https://roadmap.sh/projects/github-user-activity
+>>>>>>> origin/main
